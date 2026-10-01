@@ -5,6 +5,19 @@
   "source": "Respuestas del formulario Mes de Salud Mental (respuestas)",
   "events": [
     {
+      "id": "sm2026-043",
+      "date": "2026-10-01",
+      "time": "09:00",
+      "title": "Mural colectivo sobre salud mental",
+      "description": "Mural colectivo: con preguntas disparadoras “¿Qué significa para vos la Salud Mental?”, “¿Qué cosas te ayudan a estar bien en tu día a día?”, a partir de las cuales los participantes volcarán sus reflexiones por escrito, conformando progresivamente un mural construido por todos. Actividad exclusiva para usuarios/as.",
+      "locality": "Oliva",
+      "venue": "Servicio de Psicogeriatría, H.E.V.A. (Cerrada)",
+      "category": "Espacio público",
+      "modality": "Presencial",
+      "organizer": "Dispositivo de “Apoyo al Adulto Mayor”, Servicio de Dispositivos Intermedios y Rehabilitación, H.E.V.A.",
+      "sourceRow": 43
+    },
+    {
       "id": "sm2026-020",
       "date": "2026-10-05",
       "time": "07:00",
@@ -44,6 +57,19 @@
       "sourceRow": 39
     },
     {
+      "id": "sm2026-060",
+      "date": "2026-10-05",
+      "time": "10:00",
+      "title": "Llaves de expresión",
+      "description": "Taller de Alfabetización “Llaves de expresión”. Se elaborarán llaveros representativos de distintas emociones por parte de los participantes del Taller de Alfabetización, con el fin de promover alfabetización emocional e identificación de estados de ánimo a través de símbolos visuales (emojis). Actividad cerrada para usuarios/as desde la cual los llaveros serán obsequiados durante la feria del Mes de la Salud Mental como hito de integración comunitaria.",
+      "locality": "Oliva",
+      "venue": "Servicio de Psicogeriatría, H.E.V.A. (Cerrada)",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "Dispositivo de “Apoyo al Adulto Mayor”, Servicio de Dispositivos Intermedios y Rehabilitación, H.E.V.A.",
+      "sourceRow": 60
+    },
+    {
       "id": "sm2026-032",
       "date": "2026-10-05",
       "time": null,
@@ -55,6 +81,19 @@
       "modality": "Presencial",
       "organizer": "Servicio de Salud Mental",
       "sourceRow": 32
+    },
+    {
+      "id": "sm2026-045",
+      "date": "2026-10-06",
+      "time": "10:00",
+      "title": "El Rincón del Bien-Estar",
+      "description": "El Rincón del Bien-Estar. Se diseña un espacio al interior del Servicio, con bajo estímulo sonoro y visual, con elementos para la autorregulación emocional y el bienestar diario, para que las personas usuarias puedan adquirir herramientas a las cuales acudir ante estados de ansiedad, cansancio o sobreestimulación.",
+      "locality": "Oliva",
+      "venue": "Servicio de Psicogeriatría, H.E.V.A. (Cerrada)",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "Dispositivo de “Apoyo al Adulto Mayor”, Servicio de Dispositivos Intermedios y Rehabilitación, H.E.V.A.",
+      "sourceRow": 45
     },
     {
       "id": "sm2026-040",
@@ -122,6 +161,19 @@
       "sourceRow": 41
     },
     {
+      "id": "sm2026-046",
+      "date": "2026-10-07",
+      "time": "09:00",
+      "title": "Jornada de intercambio y aprendizaje",
+      "description": "Jornada de intercambio y aprendizaje con estudiantes de la Universidad Nacional de Cba. con sede en Va. Ma. - Carrera de Enfermería. Tema: “Herramientas para la inclusión y participación de los usuarios en SM Comunitaria”. Actividad centrada en el encuentro entre los estudiantes y profesionales organizadores",
+      "locality": "Oliva",
+      "venue": "Hogar Santa Rita (Cerrada)",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "Servicio de Dispositivos Comunitarios y R.A.A.C. Oliva",
+      "sourceRow": 46
+    },
+    {
       "id": "sm2026-015",
       "date": "2026-10-07",
       "time": "09:30",
@@ -146,6 +198,19 @@
       "modality": "Presencial",
       "organizer": "Servicio de Salud Mental del Hospital Elpidio Torres",
       "sourceRow": 28
+    },
+    {
+      "id": "sm2026-047",
+      "date": "2026-10-07",
+      "time": "11:00",
+      "title": "Frascos de las emociones",
+      "description": "“Frascos de las emociones”. En el espacio de Asamblea se trabajará utilizando materiales accesibles y consignas sencillas que permitan identificar, expresar y compartir diferentes estados emocionales, de acuerdo con las posibilidades de cada participante, buscando favorecer el reconocimiento y la comunicación de emociones, promoviendo el intercambio grupal y la construcción de recursos personales y colectivos para hablar sobre aquello que se siente.",
+      "locality": "Oliva",
+      "venue": "C.S.L., Se.D.I.R., H.E.V.A. (Cerrada)",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "Centro Socio Laboral (C.S.L.). Servicio de Dispositivos Intermedios y Rehabilitación (Se. D.I.R.), H.E.V.A",
+      "sourceRow": 47
     },
     {
       "id": "sm2026-014",
@@ -187,6 +252,19 @@
       "sourceRow": 21
     },
     {
+      "id": "sm2026-048",
+      "date": "2026-10-10",
+      "time": "09:30",
+      "title": "Expresión de lo que somos",
+      "description": "“Expresión de lo que somos”. Actividad destinada exclusivamente a usuarios/as residentes del Hogar Intrahospitalario. Exposición colectiva en la que cada participante podrá elegir una producción que lo represente, con el objetivo de poner en primer plano a la persona: quién es, qué le gusta, qué recuerda, qué disfruta y qué tiene para ofrecer a los demás.",
+      "locality": "Oliva",
+      "venue": "Hogar Intrahospitalario “Nuevo Sol”, H.E.V.A. (Cerrada))",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "Hogar Intrahospitalario “Nuevo Sol”, H.E.V.A.",
+      "sourceRow": 48
+    },
+    {
       "id": "sm2026-025",
       "date": "2026-10-10",
       "time": "10:00",
@@ -213,6 +291,19 @@
       "sourceRow": 22
     },
     {
+      "id": "sm2026-049",
+      "date": "2026-10-13",
+      "time": "10:00",
+      "title": "Mi historia, mi tesoro",
+      "description": "Taller Neurocognitivo: \"Mi historia, mi tesoro\".  Cada persona usuaria del Servicio de Psicogeriatría llevará al taller un objeto/recuerdo, foto, canción.  Se registrará en una ficha \"Mi tesoro\", con lo cual se trabajará memoria autobiográfica, lenguaje, sentido de la identidad, y fortalecimiento de vínculos mediante la narración compartida.",
+      "locality": "Oliva",
+      "venue": "Servicio de Psicogeriatría, H.E.V.A. (Cerrada)",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "Dispositivo de “Apoyo al Adulto Mayor”, Servicio de Dispositivos Intermedios y Rehabilitación, H.E.V.A.",
+      "sourceRow": 49
+    },
+    {
       "id": "sm2026-016",
       "date": "2026-10-13",
       "time": "11:00",
@@ -237,6 +328,32 @@
       "modality": "Presencial",
       "organizer": "E.A.C Cosquín",
       "sourceRow": 19
+    },
+    {
+      "id": "sm2026-050",
+      "date": "2026-10-14",
+      "time": "10:00",
+      "title": "Bingo de las Emociones",
+      "description": "Taller de Juego: \"Bingo de las Emociones\". Dinámica: se utilizará soporte visual adaptado, cartones con ilustraciones de caras representativas de emociones (alegría, tristeza, enojo, miedo, calma). Se trata de una adaptación lúdica del bingo tradicional, promoviendo la atención visual, el reconocimiento de emociones y el intercambio grupal en un clima distendido. SE INVATARÁ A REFERENTES SOCIO-AFECTIVOS O FAMILIARES DE USUARIOS/AS RESIDENTES.",
+      "locality": "Oliva",
+      "venue": "Servicio de Psicogeriatría, H.E.V.A.",
+      "category": "Recreación y deporte",
+      "modality": "Presencial",
+      "organizer": "Dispositivo de “Apoyo al Adulto Mayor”, Servicio de Dispositivos Intermedios y Rehabilitación, H.E.V.A.",
+      "sourceRow": 50
+    },
+    {
+      "id": "sm2026-051",
+      "date": "2026-10-15",
+      "time": "09:00",
+      "title": "Salud mental y envejecimiento saludable",
+      "description": "Jornada de promoción de la salud mental y bienestar psicosocial destinada a personas mayores, desde una perspectiva de envejecimiento activo, participación y fortalecimiento de vínculos. Tema: “Salud Mental y Envejecimiento Saludable: abordaje psicosocial de las personas mayores”. Dirigido a personas adultas mayores participantes o residentes del Hogar Municipal de Ancianos y comunidad de adultos mayores en general.",
+      "locality": "Oliva",
+      "venue": "Hogar Municipal de Ancianos.",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "Servicio de Dispositivos Comunitarios HEVA",
+      "sourceRow": 51
     },
     {
       "id": "sm2026-018",
@@ -278,6 +395,19 @@
       "sourceRow": 37
     },
     {
+      "id": "sm2026-052",
+      "date": "2026-10-15",
+      "time": "19:00",
+      "title": "Presentación de corto cinematográfico",
+      "description": "Presentación de CORTO CINEMATOGRAFICO, con disertación de especialista en DIVERSIDAD, de la Secretaría de Derechos Humanos y DIVERSIDAD dependiente del Ministerio de Vinculación y Gestión Municipal del Gobierno de la Provincia de Córdoba. Destinado a alumnos del CENMA, agentes de Salud y público en general.",
+      "locality": "Oliva",
+      "venue": "Auditorio cooperativo de la Cooperativa de Provisión de Obras y Servicios Públicos y Sociales y de Vivienda de Oliva Ltda.",
+      "category": "Recreación y deporte",
+      "modality": "Presencial",
+      "organizer": "SECRETARIA DE DIVERSIDAD, Municipalidad de OLIVA con colaboración del Comité de Capacitación, Docencia e Investigación del H.E.V.A.",
+      "sourceRow": 52
+    },
+    {
       "id": "sm2026-003",
       "date": "2026-10-16",
       "time": "08:30",
@@ -302,6 +432,19 @@
       "modality": "Presencial",
       "organizer": "Hospital Elpidio Torres junto al Programa de Prevención de Suicidio de la Provincia",
       "sourceRow": 29
+    },
+    {
+      "id": "sm2026-061",
+      "date": "2026-10-16",
+      "time": "10:00",
+      "title": "Capacitación sobre prevención en abuso de pantallas",
+      "description": "Capacitacion General para Centros RAAC interior sobre Prevencion en abuso de pantallas",
+      "locality": "Córdoba Capital",
+      "venue": null,
+      "category": "Taller y formación",
+      "modality": "Virtual",
+      "organizer": "RAAC Interior",
+      "sourceRow": 61
     },
     {
       "id": "sm2026-031",
@@ -330,6 +473,19 @@
       "sourceRow": 4
     },
     {
+      "id": "sm2026-053",
+      "date": "2026-10-19",
+      "time": "09:00",
+      "title": "Ruta crítica frente a las violencias de género",
+      "description": "Jornada de sensibilización, capacitación e intercambio con participación del Punto Mujer. Tema: “Ruta crítica frente a las violencias por motivos de género: desafíos y respuestas desde los equipos de SM Comunitaria”. Destinado a Instituciones de Salud, Justicia, Educación Fuerzas Vivas y público en general, orientada a fortalecer el conocimiento de los equipos de salud y la comunidad respecto de las estrategias de abordaje y acompañamiento ante situaciones de violencia.",
+      "locality": "Oliva",
+      "venue": "Auditorio cooperativo de la Cooperativa de Provisión de Obras y Servicios Públicos y Sociales y de Vivienda de Oliva Ltda.",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "Punto Mujer, Municipalidad de Oliva en conjunto con el Servicio de Dispositivos Comunitarios del H.E.V.A.",
+      "sourceRow": 53
+    },
+    {
       "id": "sm2026-038",
       "date": "2026-10-19",
       "time": "15:00",
@@ -341,6 +497,19 @@
       "modality": "Presencial",
       "organizer": "Programa de Acompañamiento Territorial - Zona 5",
       "sourceRow": 38
+    },
+    {
+      "id": "sm2026-054",
+      "date": "2026-10-19",
+      "time": "17:00",
+      "title": "Movimiento es Arte",
+      "description": "Taller Movimiento es Arte “Habitar el cuerpo con placer”. Promover el disfrute, la coordinación y el bienestar sin exigencia. Se trata de una propuesta integral, orientada a favorecer la reconexión corporal, la expresión afectiva y la autorregulación a través de la música y el movimiento adaptado.",
+      "locality": "Oliva",
+      "venue": "Servicio de Psicogeriatría, H.E.V.A. (Cerrada)",
+      "category": "Recreación y deporte",
+      "modality": "Presencial",
+      "organizer": "Dispositivo de “Apoyo al Adulto Mayor”, Servicio de Dispositivos Intermedios y Rehabilitación, H.E.V.A.",
+      "sourceRow": 54
     },
     {
       "id": "sm2026-013",
@@ -382,6 +551,19 @@
       "sourceRow": 36
     },
     {
+      "id": "sm2026-055",
+      "date": "2026-10-22",
+      "time": "08:30",
+      "title": "Primeras Jornadas Abiertas de la Red Asistencial HEVA",
+      "description": "Primeras Jornadas Abiertas de la “Red Asistencial Hospital Dr. Emilio Vidal Abal”: “Salud Mental y Comunidad. Experiencias y Abordajes Posibles”. \nDirigido a: Instituciones y profesionales de salud y salud mental, Poder Judicial, Fuerzas Vivas, Instituciones y público en general.\n-\tSE ENTREGARÁN CERTIFICACIONES    - \nPrograma: \n           8hs. ACREDITACIONES.\n           8:30hs. ACTO DE APERTURA. \n           9hs. MESA 1: “Dispositivos sustitutivos a la internación. Herramientas posibles”. \nDisertantes: Dr. Adrián Fantini (Méd. Psiq. Prof. Titular de la Universidad Católica de Córdoba), Lic. Andrea Soria (Jefa del Servicio de Dispositivos Intermedios y Rehabilitación del H.E.V.A.) y Dra. Liliana Moyano (del Servicio de Dispositivos Comunitarios del H.E.V.A.).\n           10:20hs. MESA 2: “Adolescencias y Salud Mental”.\nDisertantes: Lic. Alejandro Bassi (Director de la “CASA DEL JOVEN”, Secretaría de Salud Mental y Adicciones, Ministerio de Salud, Gobierno de Córdoba), Dra. Carolina Reynolds (Psiquiatra Infanto-Juvenil, H.E.V.A.) y Lic. Mauro Biondini (Jefe Servicio de Psicología – Programa: “Adolescencias en Comunidad”, del H.E.V.A.). \n           11:30hs. COFEE BREAK.\n           12hs. MESA 3: “Experiencias de transformaciones sanitarias y creación de módulos de atención en salud mental en Hospitales Generales, un lugar para la internación”.\nDisertantes: Dr. Fernando Druetta, Lic. Verónica Bartolacci y Enf. Vanina Pinillo (Director y profesionales del la Red de Prevención y Promoción en Salud Mental Hospital Colonia Santa María de Punilla); Lic. Ramallo, Lic. Bonetto, Lic. Bustamante, Dra. Ricotti y Lic. Salgado (Equipo Interdisciplinario de la Unidad de Internación en Salud Mental Nuevo Hospital San Roque:) y Dra. Marcela Giacinti y Lic. Laura Vilches Coordinadoras del Servicio de Internaciones Agudas del H.E.V.A.\n           13:30hs. CIERRE DE LAS JORNADAS a cargo de la Dirección del H.E.V.A.",
+      "locality": "Oliva",
+      "venue": "Auditorio cooperativo de la Cooperativa de Provisión de Obras y Servicios Públicos y Sociales y de Vivienda de Oliva Ltda.",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "Red Asistencial Hospital Dr. Emilio Vidal Abal, Oliva",
+      "sourceRow": 55
+    },
+    {
       "id": "sm2026-023",
       "date": "2026-10-23",
       "time": "09:30",
@@ -421,6 +603,32 @@
       "sourceRow": 6
     },
     {
+      "id": "sm2026-057",
+      "date": "2026-10-28",
+      "time": "09:00",
+      "title": "Feria Comunitaria de Salud",
+      "description": "FERIA COMUNITARIA DE SALUD.\nDestinada al Público en General, con invitación y participación a Instituciones locales y personal de entidades sanitarias de la zona. Con stands informativos, expositivos, recreativos y vivenciales. \nStands Participantes: Servicio de Dispositivos Comunitarios; del Servicio de Dispositivos Intermedios y Rehabilitación: Hospital de Día, Centro Socio Laboral, Dispositivo Apoyo al Adulto Mayor y Centro de Día en Salud Mental Río Segundo; R.A.A.C. Oliva, Hospital de Día Encuentro de Villa María, Hospital Zonal Oliva. Se invitará a Instituciones Educativas y Sanitarias del ámbito público y privado.",
+      "locality": "Oliva",
+      "venue": "Plaza del Bicentenario, ciudad de OLIVA.",
+      "category": "Espacio público",
+      "modality": "Presencial",
+      "organizer": "Red Asistencial HEVA, Oliva",
+      "sourceRow": 57
+    },
+    {
+      "id": "sm2026-056",
+      "date": "2026-10-28",
+      "time": "11:00",
+      "title": "Pirámide de la Salud Mental",
+      "description": "“Pirámide de la SALUD MENTAL”. Se desarrollará en el ámbito exclusivo de las internaciones Agudas, invitando a los/as usuario/as a compartir una actividad de reflexión a partir de disparadores en relación a acciones de la vida cotidiana que ayudan a proteger la salud mental habilitando el diálogo colectivo en torno a una serie de interrogantes de interés por parte de los y las usuarias.",
+      "locality": "Oliva",
+      "venue": "Equipo Interdisciplinario del Servicio de Internaciones Agudas, en S.I.A.M., S.I.A.V. y A.C.Ad., H.E.V.A. (CERRADO))",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "Equipo Interdisciplinario del Servicio de Internaciones Agudas, en S.I.A.M., S.I.A.V. y A.C.Ad., H.E.V.A.",
+      "sourceRow": 56
+    },
+    {
       "id": "sm2026-042",
       "date": "2026-10-28",
       "time": "15:30",
@@ -445,6 +653,32 @@
       "modality": "Presencial",
       "organizer": "Programa Cuidarnos",
       "sourceRow": 7
+    },
+    {
+      "id": "sm2026-058",
+      "date": "2026-10-29",
+      "time": "09:00",
+      "title": "Nuestro recorrido con imágenes y palabras",
+      "description": "“Nuestro recorrido con imágenes y palabras”. Proyección al interior del Hospital de un resumen audiovisual que compilará fotos, imágenes y vivencias compartidas durante el mes, como actividad integradora. Al finalizar la actividad se conformará un Collage colectivo de vivencias.",
+      "locality": "Oliva",
+      "venue": "Servicio de Psicogeriatría, H.E.V.A (CERRADO)",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "Dispositivo de “Apoyo al Adulto Mayor”, Servicio de Dispositivos Intermedios y Rehabilitación, H.E.V.A.",
+      "sourceRow": 58
+    },
+    {
+      "id": "sm2026-059",
+      "date": "2026-10-29",
+      "time": "09:00",
+      "title": "Programa CuidarNos",
+      "description": "Programa CuidarNos de la Provincia de Córdoba es un servicio de la Secretaría de Salud Mental que brinda acompañamiento psicosocial, escucha y contención al personal de salud y equipos de cuidado. Dependiente de la Subsecretaría de Salud Mental de la Provincia de Córdoba.\nDestinatarios: Personal del Hospital Dr. Emilio Vidal Abal con invitación al personal del Hospital Zonal Oliva.",
+      "locality": "Oliva",
+      "venue": "Comité de Capacitación, Docencia e Investigación, H.E.V.A (CERRADA))",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "Comité de Capacitación, Docencia e Investigación, H.E.V.A.",
+      "sourceRow": 59
     },
     {
       "id": "sm2026-033",
