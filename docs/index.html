@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#006735">
+  <meta name="description" content="Buscá actividades del Mes de la Salud Mental 2026 por día, localidad, tipo y modalidad.">
+  <title>Agenda de actividades · Mes de la Salud Mental 2026</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='18' fill='%2337a936'/%3E%3Ccircle cx='32' cy='32' r='20' fill='none' stroke='white' stroke-width='7'/%3E%3Cpath d='M32 13v38M13 32h38' stroke='white' stroke-width='5'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./styles.css">
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <main class="agenda" id="agenda">
+    <section class="explore" aria-label="Buscar actividades">
+      <div class="heading-row">
+        <div>
+          <p class="kicker">Mes de la Salud Mental · Octubre 2026</p>
+          <h1 id="agenda-title">Grilla de Actividades</h1>
+        </div>
+        <span class="draft-badge">Agenda en actualización</span>
+      </div>
+      <div class="filters">
+        <label class="search-field">Buscar por palabra
+          <input id="query" type="search" placeholder="Actividad, lugar u organización" autocomplete="off">
+        </label>
+        <label>Día
+          <select id="day"><option value="">Todos los días</option></select>
+        </label>
+        <label>Localidad
+          <select id="locality"><option value="">Todas las localidades</option></select>
+        </label>
+        <label>Tipo de actividad
+          <select id="category"><option value="">Todos los tipos</option></select>
+        </label>
+        <label>Modalidad
+          <select id="modality"><option value="">Todas las modalidades</option></select>
+        </label>
+      </div>
+      <div class="result-bar">
+        <p id="count" role="status" aria-live="polite">Cargando actividades…</p>
+        <button type="button" id="reset" hidden>Limpiar filtros</button>
+      </div>
+      <div id="results" class="results"></div>
+      <nav id="pagination" class="pagination" aria-label="Páginas de actividades" hidden>
+        <button id="previous" type="button">Anterior</button>
+        <span id="page-status" aria-live="polite"></span>
+        <button id="next" type="button">Siguiente</button>
+      </nav>
+      <div id="empty" class="empty" hidden>
+        <h3>No encontramos actividades con esos filtros</h3>
+        <p>Probá con otra fecha, localidad o palabra.</p>
+      </div>
+      <p class="caveat">La programación puede cambiar. Antes de asistir, verificá los detalles con el equipo organizador.</p>
+    </section>
+  </main>
+</body>
+</html>
