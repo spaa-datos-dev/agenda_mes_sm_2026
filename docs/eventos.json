@@ -83,6 +83,19 @@
       "sourceRow": 32
     },
     {
+      "id": "sm2026-067",
+      "date": "2026-10-06",
+      "time": "09:00",
+      "title": "Presentación del Protocolo de Primeros Auxilios Psicológicos",
+      "description": "Presentación Protocolo Primeros Auxilios Psicológicos al personal de RRHH de Secretaria de Gobierno",
+      "locality": "Córdoba Capital",
+      "venue": "Ersep:Av Emilio Olmos 513",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "Programa Cuidarnos",
+      "sourceRow": 67
+    },
+    {
       "id": "sm2026-045",
       "date": "2026-10-06",
       "time": "10:00",
@@ -107,6 +120,19 @@
       "modality": "Presencial",
       "organizer": "Servicio de Salud Mental. Htal Misericordia",
       "sourceRow": 40
+    },
+    {
+      "id": "sm2026-063",
+      "date": "2026-10-06",
+      "time": "19:00",
+      "title": "Sembrando Bienestar",
+      "description": "Realizaremos un taller denominado \"SEMBRANDO BIENESTAR\" con el objetivo de concientizar sobre la importancia de la salud mental en las mujeres rurales.",
+      "locality": "San Antonio de Litín",
+      "venue": "Escuelas de la Zona Rural",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "Racc",
+      "sourceRow": 63
     },
     {
       "id": "sm2026-002",
@@ -211,6 +237,19 @@
       "modality": "Presencial",
       "organizer": "Centro Socio Laboral (C.S.L.). Servicio de Dispositivos Intermedios y Rehabilitación (Se. D.I.R.), H.E.V.A",
       "sourceRow": 47
+    },
+    {
+      "id": "sm2026-062",
+      "date": "2026-10-08",
+      "time": "08:30",
+      "title": "Acting out y pasaje al acto en la clínica actual",
+      "description": "Jornada de capacitación destinada a profesionales y estudiantes del campo de la salud mental. Título: Acting out y pasaje al acto en la clínica actual con niños y adolescentes.",
+      "locality": "Córdoba Capital",
+      "venue": "Auditorio de la Secretaría de Ciencia y Tecnología - Alvarez de Arenales 230, Bo Juniors",
+      "category": "Taller y formación",
+      "modality": "Presencial y virtual",
+      "organizer": "Casa del Joven",
+      "sourceRow": 62
     },
     {
       "id": "sm2026-014",
@@ -512,6 +551,32 @@
       "sourceRow": 54
     },
     {
+      "id": "sm2026-068",
+      "date": "2026-10-20",
+      "time": "10:00",
+      "title": "Taller de Autocuidado",
+      "description": "Taller de Autocuidado: Destinado a personal de salud, equipos técnicos y afines.",
+      "locality": "Las Tapias",
+      "venue": null,
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "Programa Cuidarnos",
+      "sourceRow": 68
+    },
+    {
+      "id": "sm2026-066",
+      "date": "2026-10-20",
+      "time": "15:00",
+      "title": "Taller encuentro con familiares y referentes afectivos",
+      "description": "Desde el equipo de la Zona 6 se llevará a cabo un \"Taller-encuentro con familiares y referentes afectivos de personas en situación de consumo problemático y/o adicciones\", en el marco de los dispositivos territoriales que se sostienen semanalmente.",
+      "locality": "Córdoba Capital",
+      "venue": "“la casita de Luna” centro social bethania. Barrio Villa quisquisacate",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "Programa de Acompañamiento Territorial",
+      "sourceRow": 66
+    },
+    {
       "id": "sm2026-013",
       "date": "2026-10-21",
       "time": "09:00",
@@ -536,6 +601,19 @@
       "modality": "Presencial",
       "organizer": "Hospital de día en salud mental",
       "sourceRow": 17
+    },
+    {
+      "id": "sm2026-064",
+      "date": "2026-10-21",
+      "time": "15:00",
+      "title": "Taller sobre Educación Sexual Integral",
+      "description": "Se realizara un taller con los estudiantes de primer y segundo año de la escuela secundaria dictado por la Licenciada en psicologia y medico ginecologo sobre la importancia de la ESI (Educacion sexual integral)",
+      "locality": "San Antonio de Litín",
+      "venue": "Escuela secundaria I.P.E.A Nº 214 Manuel Belgrano",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "Racc y Centro de salud local",
+      "sourceRow": 64
     },
     {
       "id": "sm2026-036",
@@ -588,6 +666,19 @@
       "modality": "Presencial",
       "organizer": "Programa Cuidarnos",
       "sourceRow": 5
+    },
+    {
+      "id": "sm2026-065",
+      "date": "2026-10-24",
+      "time": "08:00",
+      "title": "Charla sobre salud mental y cuidado integral de la mujer",
+      "description": "Se realizara una charla informatica acerca de la importancia de la salud mental y el cuidado integral de la salud de la mujer. Esto se llevara a cabo en el marco del Octubre Rosa, donde se realiza una campaña de controles de la salud de la mujer.",
+      "locality": "San Antonio de Litín",
+      "venue": "Centro de Salud Jose A. Ceballos",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "Punto Mujer y Centro de Salud local",
+      "sourceRow": 65
     },
     {
       "id": "sm2026-006",
