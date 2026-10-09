@@ -18,6 +18,32 @@
       "sourceRow": 43
     },
     {
+      "id": "sm2026-070",
+      "date": "2026-10-02",
+      "time": "20:00",
+      "title": "Cierre de formación de promotores territoriales",
+      "description": "CIERRE FORMACION PROMOTORES TERRITORIALES",
+      "locality": "Río Cuarto",
+      "venue": "SALON AUDITORIO HOTEL MENOSSI - AV ESPAÑA 41",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "CAS RIO CUARTO - AREA PREVENCION",
+      "sourceRow": 70
+    },
+    {
+      "id": "sm2026-071",
+      "date": "2026-10-04",
+      "time": "21:00",
+      "title": "Bandera de prevención de la salud mental",
+      "description": "BANDERA DE PREVENCION DE LA SALUD MENTAL EN EL PARTIDO  ENTRE ESTUDIANTES DE RIO CUARTO Y RACING",
+      "locality": "Río Cuarto",
+      "venue": "CANCHA DE ESTUDIANTES DE RIO CUARTO",
+      "category": "Recreación y deporte",
+      "modality": "Presencial",
+      "organizer": "CAS RIO CUARTO",
+      "sourceRow": 71
+    },
+    {
       "id": "sm2026-020",
       "date": "2026-10-05",
       "time": "07:00",
@@ -135,6 +161,19 @@
       "sourceRow": 63
     },
     {
+      "id": "sm2026-072",
+      "date": "2026-10-07",
+      "time": "08:00",
+      "title": "Taller sobre salud mental y consumos problemáticos",
+      "description": "TALLER SALUD MENTAL Y CONSUMOS PROBLEMATICOS (APUESTAS/USO DE CELULAR)",
+      "locality": "Río Cuarto",
+      "venue": "COLEGIO SAN FRANCISCO",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "CAS RIO CUARTO - AREA PREVENCION",
+      "sourceRow": 72
+    },
+    {
       "id": "sm2026-002",
       "date": "2026-10-07",
       "time": "09:00",
@@ -239,6 +278,19 @@
       "sourceRow": 47
     },
     {
+      "id": "sm2026-073",
+      "date": "2026-10-08",
+      "time": "08:00",
+      "title": "Taller sobre salud mental, consumos y vapeo",
+      "description": "TALLER SALUD MENTAL Y CONSUMOS PROBLEMATICOS (VAPER)",
+      "locality": "Río Cuarto",
+      "venue": "COLEGIO SAN FRANCISCO",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "CAS RIO CUARTO - AREA PREVENCION",
+      "sourceRow": 73
+    },
+    {
       "id": "sm2026-062",
       "date": "2026-10-08",
       "time": "08:30",
@@ -278,6 +330,19 @@
       "sourceRow": 12
     },
     {
+      "id": "sm2026-074",
+      "date": "2026-10-09",
+      "time": "09:30",
+      "title": "Espacio de escucha y sensibilización",
+      "description": "DIFUSION Y SENSIBILIZACION DEL CUIDADO DE LA SALUD MENTAL A TRAVES DE ESPACIO DE ESCUCHA, ASESORAMIENTO Y HERRAMIENTAS DE AUTOCUIDADO",
+      "locality": "Río Cuarto",
+      "venue": "OPERATIVO LA MUNI EN TU BARRIO - VECINAL INDUSTRIAL",
+      "category": "Espacio público",
+      "modality": "Presencial",
+      "organizer": "CAS RIO CUARTO - AREA PREVENCION",
+      "sourceRow": 74
+    },
+    {
       "id": "sm2026-021",
       "date": "2026-10-09",
       "time": "10:00",
@@ -289,6 +354,19 @@
       "modality": "Presencial",
       "organizer": "EAC LA CUMBRE",
       "sourceRow": 21
+    },
+    {
+      "id": "sm2026-087",
+      "date": "2026-10-09",
+      "time": "20:00",
+      "title": "Conversatorio: hablar de suicidio es comenzar a ayudar",
+      "description": "Conversatorio HABLAR DE SUICIDIO ES COMENZAR A AYUDAR",
+      "locality": "Coronel Moldes",
+      "venue": "Casa de la Historia y la Cultura Agustin Tosco",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "RAAC y Servicio de Salud Mental Hospital Municipal Tomas Ponsone",
+      "sourceRow": 87
     },
     {
       "id": "sm2026-048",
@@ -343,6 +421,19 @@
       "sourceRow": 49
     },
     {
+      "id": "sm2026-083",
+      "date": "2026-10-13",
+      "time": "10:00",
+      "title": "Video alusivo sobre salud mental",
+      "description": "Video alusivo a cargo de lic en psicología de la dirección de desarrollo social",
+      "locality": "Vicuña Mackenna",
+      "venue": "Municipalidad de vicuña Mackenna",
+      "category": "Taller y formación",
+      "modality": "Virtual",
+      "organizer": "Cas vicuña Mackenna, dirección de desarrollo social",
+      "sourceRow": 83
+    },
+    {
       "id": "sm2026-016",
       "date": "2026-10-13",
       "time": "11:00",
@@ -354,6 +445,19 @@
       "modality": "Presencial",
       "organizer": "Equipo de Prevención y Promoción de la Salud Mental Infanto Juvenil del Hospital Santa María",
       "sourceRow": 16
+    },
+    {
+      "id": "sm2026-081",
+      "date": "2026-10-13",
+      "time": "13:00",
+      "title": "Lo que no siempre decimos",
+      "description": "LO QUE NO SIEMPRE DECIMOS: una charla sobre salud mental, autoestima, emociones, vínculos y la importancia de pedir ayuda",
+      "locality": "Leones",
+      "venue": "AUDITORIO DEL IPETYM N° 256",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "RAAC LEONES",
+      "sourceRow": 81
     },
     {
       "id": "sm2026-019",
@@ -369,6 +473,19 @@
       "sourceRow": 19
     },
     {
+      "id": "sm2026-086",
+      "date": "2026-10-14",
+      "time": "09:30",
+      "title": "Stand de visibilización y concientización",
+      "description": "Visibilización- concientización- Stand",
+      "locality": "Cosquín",
+      "venue": "Plaza San Martin - Cosquin",
+      "category": "Espacio público",
+      "modality": "Presencial",
+      "organizer": "RAAC cosquin- EAC cosquin- Hospital Cima",
+      "sourceRow": 86
+    },
+    {
       "id": "sm2026-050",
       "date": "2026-10-14",
       "time": "10:00",
@@ -380,6 +497,19 @@
       "modality": "Presencial",
       "organizer": "Dispositivo de “Apoyo al Adulto Mayor”, Servicio de Dispositivos Intermedios y Rehabilitación, H.E.V.A.",
       "sourceRow": 50
+    },
+    {
+      "id": "sm2026-080",
+      "date": "2026-10-15",
+      "time": "08:30",
+      "title": "Capacitación para profesionales de enfermería",
+      "description": "El encuentro se desarrollará bajo una modalidad de capacitación/taller, cuyo objetivo es: Favorecer la actualización académica de profesionales de enfermería mediante competencias científicas, éticas y humanísticas para brindar cuidados integrales a personas con padecimiento mental y consumos problemáticos, desde una perspectiva de derechos humanos, interdisciplina y base comunitaria, orientada a la autonomía y la inclusión social.\nOrganización estimada para el encuentro:\n- 8:30hs: Acreditaciones.\n- 9:00hs: Bienvenida por parte de autoridades.\n- 9:15hs: Desarrollo de los contenidos teóricos. \n- 11:15hs: Break.\n- 11:45hs: Desarrollo de los contenidos teóricos.\n- 13hs: Finalización.",
+      "locality": "Córdoba Capital",
+      "venue": "Av. Vélez Sarsfield 2221 (Hospital Nueva Maternidad Provincial Brigadier Gral. Juan Bautista Bustos).",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "Capacitación - Jefatura Adicciones",
+      "sourceRow": 80
     },
     {
       "id": "sm2026-051",
@@ -419,6 +549,32 @@
       "modality": "Presencial",
       "organizer": "EAC Bialet Massé",
       "sourceRow": 27
+    },
+    {
+      "id": "sm2026-085",
+      "date": "2026-10-15",
+      "time": "10:00",
+      "title": "Folletos de promoción de la salud mental",
+      "description": "Creacion de folletos relacionado a la salud mental junto con estudiantes de sexto año del IJMP en el cual se realizaran entrega del mismo a diferentes personas del pueblo y video en redes sociales",
+      "locality": "Idiazabal",
+      "venue": "Comunitariamente",
+      "category": "Espacio público",
+      "modality": "Presencial",
+      "organizer": "RAAC interior Idiazabal",
+      "sourceRow": 85
+    },
+    {
+      "id": "sm2026-075",
+      "date": "2026-10-15",
+      "time": "15:00",
+      "title": "Multiplicarte",
+      "description": "MULTIPLICARTE - TALLER SOBRE SALUD MENTAL Y CONSUMOS PROBLEMATICOS - ESPACIO DE REFLEXION SOBRE MITOS Y CREENCIAS",
+      "locality": "Río Cuarto",
+      "venue": "COLEGIO PRAMPARO",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "CAS RIO CUARTO - AREA PREVENCION",
+      "sourceRow": 75
     },
     {
       "id": "sm2026-037",
@@ -486,6 +642,19 @@
       "sourceRow": 61
     },
     {
+      "id": "sm2026-069",
+      "date": "2026-10-16",
+      "time": "20:00",
+      "title": "La soledad no deseada",
+      "description": "CHARLA TALLER: \"LA SOLEDAD NO DESEADA\" Y HERRAMIENTAS DE MEDICINA AYURVÉDICA APLICADA A LA PREVENCIÓN INTEGRAL DE LA SALUD",
+      "locality": "Saturnino María Laspiur",
+      "venue": "CENTRO DE JUBILADOS",
+      "category": "Taller y formación",
+      "modality": "Híbrida",
+      "organizer": "CENTRO PREVENTIVO, MUNICIPALIDAD Y CENTRO DE JUBILADOS DE LASPIUR",
+      "sourceRow": 69
+    },
+    {
       "id": "sm2026-031",
       "date": "2026-10-17",
       "time": "08:30",
@@ -497,6 +666,19 @@
       "modality": "Presencial",
       "organizer": "Residencias de Corta Estadia y Medio Camino y Centro Sociolaboral del Hospital Colonia Santa María",
       "sourceRow": 31
+    },
+    {
+      "id": "sm2026-076",
+      "date": "2026-10-17",
+      "time": "15:00",
+      "title": "Peña para las familias",
+      "description": "PEÑA PARA LAS FAMILIAS - SALUD MENTAL Y FORTALECIMIENTO EMOCIONAL",
+      "locality": "Río Cuarto",
+      "venue": "DAMAS SALESIANAS",
+      "category": "Recreación y deporte",
+      "modality": "Presencial",
+      "organizer": "CAS RIO CUARTO - AREA PREVENCION",
+      "sourceRow": 76
     },
     {
       "id": "sm2026-004",
@@ -551,6 +733,19 @@
       "sourceRow": 54
     },
     {
+      "id": "sm2026-077",
+      "date": "2026-10-20",
+      "time": "08:00",
+      "title": "Taller sobre salud mental y consumos problemáticos",
+      "description": "TALLER SALUD MENTAL Y CONSUMOS PROBLEMATICOS (4 AÑO)",
+      "locality": "Río Cuarto",
+      "venue": "COLEGIO AGRONOMIA",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "CAS RIO CUARTO - AERA PREVENCION",
+      "sourceRow": 77
+    },
+    {
       "id": "sm2026-068",
       "date": "2026-10-20",
       "time": "10:00",
@@ -564,6 +759,19 @@
       "sourceRow": 68
     },
     {
+      "id": "sm2026-084",
+      "date": "2026-10-20",
+      "time": "10:00",
+      "title": "Capacitación sobre protocolo de derivación en salud mental",
+      "description": "Se realizara una capacitación para las fuerzas de seguridad, personal de salud, municipal, bomberos y comunidad sobre como intervenir en el protocolo de derivación en salud mental ante personas con crisis",
+      "locality": "Valle Hermoso",
+      "venue": "CAPS Rene Favaloro",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "Raac Valle Hermoso",
+      "sourceRow": 84
+    },
+    {
       "id": "sm2026-066",
       "date": "2026-10-20",
       "time": "15:00",
@@ -575,6 +783,19 @@
       "modality": "Presencial",
       "organizer": "Programa de Acompañamiento Territorial",
       "sourceRow": 66
+    },
+    {
+      "id": "sm2026-078",
+      "date": "2026-10-21",
+      "time": "08:00",
+      "title": "Taller sobre salud mental y consumos problemáticos",
+      "description": "TALLER DE SALUD MENTAL Y CONSUMOS PROBLEMATICOS (5 Y 6 AÑO)",
+      "locality": "Río Cuarto",
+      "venue": "COLEGIO AGRONOMIA",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "CAS RIO CUARTO - AREA PREVENCION",
+      "sourceRow": 78
     },
     {
       "id": "sm2026-013",
@@ -642,6 +863,19 @@
       "sourceRow": 55
     },
     {
+      "id": "sm2026-079",
+      "date": "2026-10-22",
+      "time": "15:00",
+      "title": "Taller sobre salud mental y consumos problemáticos",
+      "description": "TALLER DE SALUD MENTAL Y CONSUMOS PROBLEMATICOS",
+      "locality": "Río Cuarto",
+      "venue": "COLEGIO NORMAL",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "CAS RIO CUARTO - AREA PREVENCION",
+      "sourceRow": 79
+    },
+    {
       "id": "sm2026-023",
       "date": "2026-10-23",
       "time": "09:30",
@@ -681,6 +915,19 @@
       "sourceRow": 65
     },
     {
+      "id": "sm2026-056",
+      "date": "2026-10-26",
+      "time": "11:00",
+      "title": "Pirámide de la Salud Mental",
+      "description": "“Pirámide de la SALUD MENTAL”. Se desarrollará en el ámbito exclusivo de las internaciones Agudas, invitando a los/as usuario/as a compartir una actividad de reflexión a partir de disparadores en relación a acciones de la vida cotidiana que ayudan a proteger la salud mental habilitando el diálogo colectivo en torno a una serie de interrogantes de interés por parte de los y las usuarias.",
+      "locality": "Oliva",
+      "venue": "Equipo Interdisciplinario del Servicio de Internaciones Agudas, en S.I.A.M., S.I.A.V. y A.C.Ad., H.E.V.A. (CERRADO))",
+      "category": "Taller y formación",
+      "modality": "Presencial",
+      "organizer": "Equipo Interdisciplinario del Servicio de Internaciones Agudas, en S.I.A.M., S.I.A.V. y A.C.Ad., H.E.V.A.",
+      "sourceRow": 56
+    },
+    {
       "id": "sm2026-006",
       "date": "2026-10-26",
       "time": "13:00",
@@ -694,6 +941,19 @@
       "sourceRow": 6
     },
     {
+      "id": "sm2026-082",
+      "date": "2026-10-27",
+      "time": "15:30",
+      "title": "Zumba para la salud",
+      "description": "Zumba para la salud \"octubre mes para movernos\"",
+      "locality": "Vicuña Mackenna",
+      "venue": "Ciclovía, José Larrañaga entre Alfonso coronel y pascual bisceglia",
+      "category": "Recreación y deporte",
+      "modality": "Presencial",
+      "organizer": "Cas Vicuña Mackenna, dirección de desarrollo social",
+      "sourceRow": 82
+    },
+    {
       "id": "sm2026-057",
       "date": "2026-10-28",
       "time": "09:00",
@@ -705,19 +965,6 @@
       "modality": "Presencial",
       "organizer": "Red Asistencial HEVA, Oliva",
       "sourceRow": 57
-    },
-    {
-      "id": "sm2026-056",
-      "date": "2026-10-26",
-      "time": "11:00",
-      "title": "Pirámide de la Salud Mental",
-      "description": "“Pirámide de la SALUD MENTAL”. Se desarrollará en el ámbito exclusivo de las internaciones Agudas, invitando a los/as usuario/as a compartir una actividad de reflexión a partir de disparadores en relación a acciones de la vida cotidiana que ayudan a proteger la salud mental habilitando el diálogo colectivo en torno a una serie de interrogantes de interés por parte de los y las usuarias.",
-      "locality": "Oliva",
-      "venue": "Equipo Interdisciplinario del Servicio de Internaciones Agudas, en S.I.A.M., S.I.A.V. y A.C.Ad., H.E.V.A. (CERRADO))",
-      "category": "Taller y formación",
-      "modality": "Presencial",
-      "organizer": "Equipo Interdisciplinario del Servicio de Internaciones Agudas, en S.I.A.M., S.I.A.V. y A.C.Ad., H.E.V.A.",
-      "sourceRow": 56
     },
     {
       "id": "sm2026-042",
